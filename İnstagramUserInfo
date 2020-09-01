@@ -1,0 +1,9 @@
+*In here you just type your Instagram username and password*
+*Then avter typing save this file.*
+*Thus python will be able to know your password and username and it will use this informations to login to your Instagram adress  *
+
+username = 'Your_username'   #Inside of these quotes type your Instagram username
+password = 'Your_password'   #Inside of these quotes type your Instagram password
+
+
+
